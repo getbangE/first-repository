@@ -1,5 +1,3 @@
-def print_hello():
-    print("Hello world!!")
-
-input() = A
-print(A)
+print('bbb')
+a = int(12 + 4)
+print(a)
